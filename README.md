@@ -7,10 +7,6 @@
 
 ## 2回目(4/25)
 
-### 話題
-
-- チーム制作の要点 [unity1week online共有会 #15. うにうにちゃん: 無理の無い共同開発](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=3944s)
-
 ### 予定
 
 - 簡単なUnityチーム開発
