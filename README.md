@@ -13,6 +13,7 @@
   - [練習用リポジトリー](https://github.com/tanakaedu/GP2Sandbox)
     - フォークしてから、クローンする
   - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/edit?tab=t.0#heading=h.ufuxrt4xk7xk)
+- 研究テーマの検討と共有
 
 ## 1回目(4/18)
 
