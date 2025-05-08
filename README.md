@@ -5,13 +5,21 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
+## 3回目(5/9)
+
+### 予定
+
+- 前回の復習
+- 研究テーマの検討と共有
+
+
 ## 2回目(4/25)
 
 ### 話題
 
 - [ZDNET Japan. 10日で開発したL・トーバルズ氏も想定外？--「Git」誕生から20年、定番VCSの軌跡とその影響](https://japan.zdnet.com/article/35231917/)
 
-### 予定
+### 内容
 
 - 簡単なUnityチーム開発
   - [練習用リポジトリー](https://github.com/tanakaedu/GP2Sandbox)
