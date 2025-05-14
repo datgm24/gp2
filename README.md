@@ -5,9 +5,17 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
-## 3回目(5/9)
+## 4回目(5/16)
 
 ### 予定
+
+- [ワンキーゲームの作例](https://docs.google.com/document/d/11359Qt-JctNAzH-Ps4O-adJ4hnhWDiQLt5fJmxbkTu0/)
+- 研究テーマの検討と共有
+
+
+## 3回目(5/9)
+
+### 内容
 
 - 前回の復習
 - [ワンキーゲームの作例](https://docs.google.com/document/d/11359Qt-JctNAzH-Ps4O-adJ4hnhWDiQLt5fJmxbkTu0/)
