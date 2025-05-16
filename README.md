@@ -1,5 +1,6 @@
 # ゲームプログラミング２年生(2024年度生)
 
+- [質問フォーム](https://docs.google.com/forms/d/e/1FAIpQLSclKAtaxsYzmbKEznZGdt4FYOMcrj_2dTDW4qGiIkazT6g49Q/viewform?usp=dialog)
 - [シラバス](./gp2_2025_syllabus.pdf)
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
