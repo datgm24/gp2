@@ -8,6 +8,11 @@
 
 ## 4回目-10回目(5/16-6/27)
 
+### 話題
+
+- [技術書典18](https://techbookfest.org/)
+  - [技術書典. アミューズワンギャラリー](https://techbookfest.org/organization/bgzSCidTdQc0gKCVvM3Ghe)
+
 ### 予定
 
 - [ワンキーゲームの作例](https://docs.google.com/document/d/11359Qt-JctNAzH-Ps4O-adJ4hnhWDiQLt5fJmxbkTu0/)
