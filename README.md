@@ -10,6 +10,7 @@
 
 ### 話題
 
+- [GIGAZINE. 破産したAI企業が提供していたコーディングAIが実は700人のエンジニアによる人力サービスだったと判明](https://gigazine.net/news/20250604-builder-ai-business/)
 - [技術書典18](https://techbookfest.org/)
   - [技術書典. アミューズワンギャラリー](https://techbookfest.org/organization/bgzSCidTdQc0gKCVvM3Ghe)
 
