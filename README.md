@@ -8,6 +8,8 @@
 
 ## 4回目-10回目(5/16-6/27)
 
+- [ジャンプ＆ポン　テストプレイ版](https://datgm25.github.io/JumpPomPlayer/)
+
 ### 話題
 
 - [ZDNET Japan. 「Model Context Protocol」（MCP）とは何か？--AIとデータを結びつける新標準を解説](https://japan.zdnet.com/article/35232490/)
