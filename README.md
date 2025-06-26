@@ -12,8 +12,9 @@
 
 - プロジェクトの共有
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
-- プロジェクトの講評
+- [プロジェクトの講評](https://docs.google.com/document/d/1wwh-znlKvVCJAZOmpVhqcOlKznExjXDNFHngB-Vn1-0/)
 - 前期のテーマの検討
+  - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
   - 自分が担当した内容を、ドキュメントにまとめる
   - 入力できるなら、母国語でよい。スマホで入力できる？
 
