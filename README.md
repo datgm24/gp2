@@ -6,7 +6,18 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
-## 4回目-10回目(5/16-6/27)
+## 10回目(6/27)
+
+### 予定
+
+- プロジェクトの共有
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- プロジェクトの講評
+- 前期のテーマの検討
+  - 自分が担当した内容を、ドキュメントにまとめる
+  - 入力できるなら、母国語でよい。スマホで入力できる？
+
+## 4回目-10回目(5/16-6/20)
 
 - [ジャンプ＆ポン　テストプレイ版](https://datgm25.github.io/JumpPomPlayer/)
 
@@ -21,7 +32,7 @@
 - [技術書典18](https://techbookfest.org/)
   - [技術書典. アミューズワンギャラリー](https://techbookfest.org/organization/bgzSCidTdQc0gKCVvM3Ghe)
 
-### 予定
+### 内容
 
 - [ワンキーゲームの作例](https://docs.google.com/document/d/11359Qt-JctNAzH-Ps4O-adJ4hnhWDiQLt5fJmxbkTu0/)
 
@@ -57,4 +68,4 @@
   - [シラバス](./gp2_2025_syllabus.pdf)
 - テーマを考える
   - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
-- 考えたテーマを表題にしたGoogleドキュメントを
+- 考えたテーマを表題にしたGoogleドキュメントを作成して共有
