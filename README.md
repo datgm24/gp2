@@ -6,14 +6,21 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
-## 11回目(7/4)
+## 12回目(7/11)
 
 ### 予定
+
+- 前期のテーマの検討と相談
+  - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
+- 技術ブログの書き方
+
+## 11回目(7/4)
+
+### 内容
 
 - [プロジェクトの講評](https://docs.google.com/document/d/1wwh-znlKvVCJAZOmpVhqcOlKznExjXDNFHngB-Vn1-0/)の続き
 - 前期のテーマの検討と相談
   - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
-  - 自分が担当した内容を、ドキュメントにまとめる
   - 入力できるなら、母国語でよい。スマホで入力できる？
 
 
