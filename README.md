@@ -10,6 +10,7 @@
 
 ### 話題
 
+- [Unityのキャラの移動方法](https://docs.google.com/document/d/18NqSsg9LG0dnbTbPfCtk8eq6zVjL9_Ymct5gRTdHgwo/)
 - Unityマニュアルの利用
   - ある程度使えるようになったら、公式マニュアルを読む。多くの問題の解決策は、マニュアルで詳細を理解すれば解決できる
   - [物理演算](https://docs.unity3d.com/ja/2023.2/Manual/PhysicsSection.html)
