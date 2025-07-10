@@ -10,6 +10,7 @@
 
 ### 話題
 
+- [ITmedia. ゲーム開発者100人超に聞く「生成AI、もう使ってる？」　クリエイティブ分野での利用度は](https://www.itmedia.co.jp/news/articles/2507/10/news042.html)
 - [Unityのキャラの移動方法](https://docs.google.com/document/d/18NqSsg9LG0dnbTbPfCtk8eq6zVjL9_Ymct5gRTdHgwo/)
 - Unityマニュアルの利用
   - ある程度使えるようになったら、公式マニュアルを読む。多くの問題の解決策は、マニュアルで詳細を理解すれば解決できる
