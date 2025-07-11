@@ -18,6 +18,7 @@
 
 ### 予定
 
+- [パトロールコンポーネントの開発例](https://docs.google.com/document/d/1D5qSH-ToxXRpaChwpuQRUvDizhEO97Za-S580ufn6is/)
 - 前期のテーマの検討と相談
   - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
 - 技術ブログの書き方
