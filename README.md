@@ -6,6 +6,13 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
+## 13回目(7/18)
+
+### 予定
+
+- 前期のテーマの検討と相談
+  - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
+
 ## 12回目(7/11)
 
 ### 話題
@@ -16,12 +23,11 @@
   - ある程度使えるようになったら、公式マニュアルを読む。多くの問題の解決策は、マニュアルで詳細を理解すれば解決できる
   - [物理演算](https://docs.unity3d.com/ja/2023.2/Manual/PhysicsSection.html)
 
-### 予定
+### 内容
 
 - [パトロールキャラの開発例](https://docs.google.com/document/d/1D5qSH-ToxXRpaChwpuQRUvDizhEO97Za-S580ufn6is/)
 - 前期のテーマの検討と相談
   - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
-- 技術ブログの書き方
 
 ## 11回目(7/4)
 
