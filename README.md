@@ -6,6 +6,17 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
+## 14回目(8/29)
+
+### 話題
+
+- [Power Jump & Power Kick!!](https://am1tanaka.itch.io/pwjp-pwkick) Kenney Jam 2025参加作品
+
+### 予定
+
+- 前期課題の仕上げと提出
+
+
 ## 13回目(7/18)
 
 ### 内容
