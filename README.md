@@ -15,6 +15,10 @@
 ### 予定
 
 - 前期課題の仕上げと提出
+  - 期限：8/29 12:20まで
+  - 提出先：[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform?usp=sf_link)へ、ドキュメントのURLを送信
+  - 内容
+    - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
 
 
 ## 13回目(7/18)
