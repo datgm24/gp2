@@ -11,6 +11,7 @@
 ### 予定
 
 - 最終レポートの共有と講評
+  - [レポートのチェックポイント](https://docs.google.com/document/d/1s_Q5jgdy-V52uaQ0wdBrQjlwPnkSnyRDQN7QjDWzaxE/)
 - 技術的な課題の確認
 
 ## 14回目(8/29)
