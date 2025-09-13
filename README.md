@@ -6,9 +6,25 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
-## 15回目(9/5)
+## 後期1回目()
+
+### 話題
+
+- geminiでプログラミングを連取するクイズを作る
+  - Chromeの検索欄に、`@gemini C#の練習問題を5問作成せよ`と入力すると、クイズが作れる
+  - C#や問題数を変更して、他の勉強にも役立てよう
 
 ### 予定
+
+- DATフェスタ作品の進捗確認と質疑応答
+- 開発の進め方
+
+
+---
+
+## 15回目(9/5)
+
+### 内容
 
 - 最終レポートの共有と講評
   - [レポートのチェックポイント](https://docs.google.com/document/d/1s_Q5jgdy-V52uaQ0wdBrQjlwPnkSnyRDQN7QjDWzaxE/)
