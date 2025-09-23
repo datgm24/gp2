@@ -6,7 +6,7 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
-## 後期1回目()
+## 後期1回目(10/3)
 
 ### 話題
 
@@ -18,6 +18,7 @@
 
 - DATフェスタ作品の進捗確認と質疑応答
 - 開発の進め方
+  - 1年生のブロック崩しのボールの例を紹介
 
 
 ---
