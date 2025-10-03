@@ -17,8 +17,7 @@
 ### 予定
 
 - DATフェスタ作品の進捗確認と質疑応答
-- 開発の進め方
-  - 1年生のブロック崩しのボールの例を紹介
+- [完成に向けた開発の流れ](https://docs.google.com/presentation/d/1DWmnJxyNWJvIG4Ud_Y6-te6b7zEdqhWSQhBrAqUWxTU/)
 
 
 ---
