@@ -6,7 +6,9 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
-## 後期1回目(10/3)
+
+
+## 後期1-4回目(10/3, 10, 17, 24)
 
 ### 話題
 
