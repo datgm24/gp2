@@ -19,7 +19,6 @@
 ### 予定
 
 - DATフェスタ作品の進捗確認と質疑応答
-  - ライティング、ベイク、ポストプロセス
 - [完成に向けた開発の流れ](https://docs.google.com/presentation/d/1DWmnJxyNWJvIG4Ud_Y6-te6b7zEdqhWSQhBrAqUWxTU/)
 
 
