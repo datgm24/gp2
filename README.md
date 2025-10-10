@@ -31,6 +31,7 @@
 
 - DATフェスタ作品の進捗確認と質疑応答
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+  - [後期コメント](https://docs.google.com/document/d/1G-PnVjr8hfcBMiEph0dN_q8G30H8zeQ8Lv-2m6_wIkc/)
 - [完成に向けた開発の流れ](https://docs.google.com/presentation/d/1DWmnJxyNWJvIG4Ud_Y6-te6b7zEdqhWSQhBrAqUWxTU/)
 
 ---
