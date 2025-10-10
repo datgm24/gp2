@@ -21,6 +21,14 @@
 - DATフェスタ作品の進捗確認と質疑応答
 - [完成に向けた開発の流れ](https://docs.google.com/presentation/d/1DWmnJxyNWJvIG4Ud_Y6-te6b7zEdqhWSQhBrAqUWxTU/)
 - [Unityのビルドファイルにセキュリティパッチを適用する](https://unity.com/ja/security/sept-2025-01/remediation)
+  - 「Unity アプリケーションパッチャーをダウンロードします:ツールを入手」のリンクを開く
+  - Paching Toolの最新版のWindows版のZIPファイルをダウンロードする
+  - ダウンロードしたZIPファイルを右クリックして、すべて展開
+  - UnityApplicationPatcher.exeを起動する
+  - 左からWindowsを選択
+  - 参照を選択する
+  - ビルドフォルダーの中のUnityPlayer.dllを開く
+  - パッチボタンを選択する
 
 ---
 
