@@ -6,6 +6,17 @@
 - [講義日程](https://github.com/datgm25/gp1/blob/main/fri.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
 
+## Unityのビルドファイルにセキュリティパッチを適用する
+
+- https://unity.com/ja/security/sept-2025-01/remediation を開く
+- 「Unity アプリケーションパッチャーをダウンロードします:ツールを入手」のリンクを開く
+- Paching Toolの最新版のWindows版のZIPファイルをダウンロードする
+- ダウンロードしたZIPファイルを右クリックして、すべて展開
+- UnityApplicationPatcher.exeを起動する
+- 左からWindowsを選択
+- 参照を選択する
+- ビルドフォルダーの中のUnityPlayer.dllを開く
+- パッチボタンを選択する
 
 
 ## 後期1-4回目(10/3, 10, 17, 24)
@@ -19,16 +30,8 @@
 ### 予定
 
 - DATフェスタ作品の進捗確認と質疑応答
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - [完成に向けた開発の流れ](https://docs.google.com/presentation/d/1DWmnJxyNWJvIG4Ud_Y6-te6b7zEdqhWSQhBrAqUWxTU/)
-- [Unityのビルドファイルにセキュリティパッチを適用する](https://unity.com/ja/security/sept-2025-01/remediation)
-  - 「Unity アプリケーションパッチャーをダウンロードします:ツールを入手」のリンクを開く
-  - Paching Toolの最新版のWindows版のZIPファイルをダウンロードする
-  - ダウンロードしたZIPファイルを右クリックして、すべて展開
-  - UnityApplicationPatcher.exeを起動する
-  - 左からWindowsを選択
-  - 参照を選択する
-  - ビルドフォルダーの中のUnityPlayer.dllを開く
-  - パッチボタンを選択する
 
 ---
 
