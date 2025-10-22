@@ -29,6 +29,12 @@
 
 ### 予定
 
+- Unity6.2への移行
+  - GitHubへプライベートにして、パブリッシュ
+  - unity6_0というブランチを作成
+  - masterブランチに戻して、Unity6.2で開く
+  - 問題なければ、Unity6.2で開発を継続
+  - 問題が出たら、unity6_0ブランチに切り替えて、これまでのバージョンで開発する
 - DATフェスタ作品の進捗確認と質疑応答
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - [後期コメント](https://docs.google.com/document/d/1G-PnVjr8hfcBMiEph0dN_q8G30H8zeQ8Lv-2m6_wIkc/)
