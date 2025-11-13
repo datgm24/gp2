@@ -23,6 +23,9 @@
 
 ### 予定
 
+- 設計
+  - [ゲーム開発プロジェクトの流れ](https://docs.google.com/presentation/d/1DWmnJxyNWJvIG4Ud_Y6-te6b7zEdqhWSQhBrAqUWxTU/)
+  - [GreeningEx開発関連資料](https://github.com/dat19/GreeningEx2019)
 - [提出物のコードレビュー](https://docs.google.com/document/d/1G-PnVjr8hfcBMiEph0dN_q8G30H8zeQ8Lv-2m6_wIkc/)
   - 参考にしたもの、元になったもの、使用アセットの整理
 - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
