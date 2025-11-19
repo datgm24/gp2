@@ -20,6 +20,11 @@
 
 ## 後期7回目(11/21)
 
+### 話題
+
+- [「助成金約1500万円＋2年以上かけて開発中止になったゲーム」の開発者がデモ版から何からほぼ全部公開。無念のお蔵入りゲームを、あえて世に出す](https://automaton-media.com/articles/newsjp/fps-barrow-20251119-366412/)
+- [ゲームエンジンのUnity、なんとライバルEpic Gamesと協業を発表。Unity製ゲームを『フォートナイト』に展開可能に](https://automaton-media.com/articles/newsjp/unity-epic-games-20251119-366444/)
+
 ### 予定
 
 ## 後期6回目(11/14)
