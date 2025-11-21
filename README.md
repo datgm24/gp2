@@ -18,6 +18,13 @@
 - ビルドフォルダーの中のUnityPlayer.dllを開く
 - パッチボタンを選択する
 
+## 後期8回目(11/28)
+
+### 予定
+
+- [提出物のコードレビュー](https://docs.google.com/document/d/1G-PnVjr8hfcBMiEph0dN_q8G30H8zeQ8Lv-2m6_wIkc/)より、技術解説
+- [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+
 ## 後期7回目(11/21)
 
 ### 話題
@@ -26,15 +33,16 @@
 - [ゲームエンジンのUnity、なんとライバルEpic Gamesと協業を発表。Unity製ゲームを『フォートナイト』に展開可能に](https://automaton-media.com/articles/newsjp/unity-epic-games-20251119-366444/)
 - [Qiita アドベントカレンダー2025](https://qiita.com/advent-calendar/2025)
 
-### 予定
+### 内容
 
-- [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+- [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)より、技術解説
   - 最終課題相談 仮説設定など
   - 例
     - [【Godot】ボタンなどのGUIの見た目を調整する](https://am1.jp/godot/dev/gui-theme/)
     - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
 - ポートフォリオへ反映
 - [提出物のコードレビュー](https://docs.google.com/document/d/1G-PnVjr8hfcBMiEph0dN_q8G30H8zeQ8Lv-2m6_wIkc/)
+  - 梯子の実装、移動床、コルーチン
   - 参考にしたもの、元になったもの、使用アセットの整理
 
 
