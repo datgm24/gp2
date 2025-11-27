@@ -23,6 +23,7 @@
 ### 予定
 
 - [提出物のコードレビュー](https://docs.google.com/document/d/1G-PnVjr8hfcBMiEph0dN_q8G30H8zeQ8Lv-2m6_wIkc/)より、技術解説
+  - [梯子の実装方法](https://docs.google.com/document/d/1qwNPkRWMfQgGzC60imJWcegqzi3puokqVh2q6x6qd9w/)つづき
 - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 
 ## 後期7回目(11/21)
