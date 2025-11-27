@@ -26,8 +26,8 @@
   - [梯子の実装方法](https://docs.google.com/document/d/1qwNPkRWMfQgGzC60imJWcegqzi3puokqVh2q6x6qd9w/)つづき
 - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - 参考：アドベントカレンダー関連の記事
-    - [下準備の記事](https://am1tanaka.hatenablog.com/entry/2025/11/27/134815)
-    - [公開予定の記事](https://am1tanaka.hatenablog.com/draft/entry/9HNq8YxWLJM6FE7HVfZSyPkhjYc)
+    - 下準備の記事 [【Unity】InputSystemのPassThroughってなんだっけ](https://am1tanaka.hatenablog.com/entry/2025/11/27/134815)
+    - 公開予定の記事 [【Unity6.x】WebGLのアプリをスマホでタッチ操作するためのInputSystemの設定方法 ](https://am1tanaka.hatenablog.com/draft/entry/9HNq8YxWLJM6FE7HVfZSyPkhjYc)
 
 ## 後期7回目(11/21)
 
