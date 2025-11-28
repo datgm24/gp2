@@ -18,9 +18,9 @@
 - ビルドフォルダーの中のUnityPlayer.dllを開く
 - パッチボタンを選択する
 
-## 後期8回目(11/28)
+## 後期8,9回目(11/28, 12/5)
 
-### 予定
+### 内容
 
 - [提出物のコードレビュー](https://docs.google.com/document/d/1G-PnVjr8hfcBMiEph0dN_q8G30H8zeQ8Lv-2m6_wIkc/)より、技術解説
   - [梯子の実装方法](https://docs.google.com/document/d/1qwNPkRWMfQgGzC60imJWcegqzi3puokqVh2q6x6qd9w/)つづき
